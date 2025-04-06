@@ -1,0 +1,8 @@
+langchain>=0.3.21,<1.0.0
+langchain_community
+langchain-huggingface
+
+faiss-cpu
+pypdf
+huggingface-hub
+streamlit
